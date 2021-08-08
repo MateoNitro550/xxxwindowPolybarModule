@@ -9,7 +9,7 @@ if [ $WM_DESKTOP == "1883" ]; then
 elif [ $WM_DESKTOP != "1883" ]; then
 
 	WM_CLASS=$(xprop -id $(xdotool getactivewindow) WM_CLASS | awk 'NF {print $NF}' | sed 's/"/ /g')
-	WM_NAME=$(xprop -id $(xdotool getactivewindow) WM_NAME | cut -d '=' -f 2 | sed 's/"//' | rev | sed 's/"//' | rev)
+	WM_NAME=$(xprop -id $(xdotool getactivewindow) WM_NAME | cut -d '=' -f 2 | awk -F\" '{ print $2 }')
 
 	if [ $WM_CLASS == 'Application name to change' ]; then
 
