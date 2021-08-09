@@ -1,0 +1,4 @@
+[module/xxxwindow]
+type = custom/script
+interval = 0
+exec = the/location/where/you/downloaded/the/module/xxxwindow.sh
