@@ -13,10 +13,10 @@ elif [ $WM_DESKTOP != "1883" ]; then
 
 	if [ $WM_CLASS == 'Application name to change' ]; then
 
-		echo "here goes the custom name"
+		echo "%{F#ffffff}here goes the custom name%{u-}"
 	else
 
-		echo $WM_NAME
+		echo "%{F#ffffff}$WM_NAME%{u-}"
 
 	fi
 
