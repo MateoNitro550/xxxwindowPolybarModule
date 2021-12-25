@@ -2,9 +2,9 @@
 
 WM_DESKTOP=$(xdotool getwindowfocus)
 
-if [ $WM_DESKTOP == "1883" ]; then
+if [ $WM_DESKTOP == "Enter WM_NAME value here" ]; then
 
-	echo "It is possible to add a name to the blank windows to something like 'empty', if we do not want the polybar to show us anything on the screen leave this blank"
+	echo "It is possible to add a name to the blank windows to something like 'empty', if we don't want the Polybar to show us anything on the screen, leave this blank"
 
 elif [ $WM_DESKTOP != "1883" ]; then
 

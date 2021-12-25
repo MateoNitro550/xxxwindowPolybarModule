@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-- A custom module for the Polybar -
+<i> - A custom module for the Polybar - </i>
 </p>
 
 ## Table of Contents
@@ -51,7 +51,25 @@ In the **exec** section, it is necessary to indicate the location of the file [x
 
 #### WM_DESKTOP
 
-ABC
+To avoid the following error:
+
+<p align="center">
+    <img src="/assets/desktopError.png"
+</p>
+
+It is necessary to determine the value of **WM_DESKTOP**. 
+
+To do this, we can run the following command:
+
+```
+sleep 3; xdotool getwindowfocus
+```
+
+Immediately after executing the command, we should move to an empty desktop; the value we just got, we should replace it here:
+
+<p align="center">
+    <img src="/assets/WM_DESKTOP.png"
+</p>
 
 #### WM_CLASS
 
