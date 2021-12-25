@@ -93,6 +93,24 @@ I can call them all the same, Ghidra.
     <img src="/assets/ghidraThird.png"
 </p>
 
+To do this, we can run the following command:
+  
+```
+xprop WM_CLASS
+```
+
+Then, we will have to click on the program whose name we want to change; the name we just got, we should replace it here:
+
+<p align="center">
+    <img src="/assets/WM_CLASSfirst.png"
+</p>
+
+Finally, we must enter the custom name we want for that application:
+
+<p align="center">
+    <img src="/assets/WM_CLASSsecond.png"
+</p>
+
 #### WM_NAME
 
 ABC
