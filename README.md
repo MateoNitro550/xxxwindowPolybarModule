@@ -34,7 +34,7 @@ It is possible to reduce the name to a much simpler one:
 Or even personalize it:
 
 <p align="center">                              
-    <img src="xxxwindowModuleCustom.png">              
+    <img src="/assetsxxxwindowModuleCustom.png">              
 </p>
 
 ## Getting started
