@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/installationCommandLines.png" alt="Polybar">
+  <img src="/assets/banner.png" alt="Polybar">
 </p>
 
 <p align="center">
