@@ -12,8 +12,6 @@
 * [Getting started](#getting-started)
   * [Installation](#installation)
   * [Configuration](#configuration)
-  * [Running](#running)
-
 
 ## Introduction
 
@@ -41,7 +39,7 @@ Or even personalize it:
 
 ### Installation
 
-To add the xxxwindow module to the polybar, simply add the following code to the configuration file of the polybar.
+To add the xxxwindow module to the Polybar, simply add the following code to the configuration file of the Polybar.
 
 <p align="center">
     <img src="/assets/installationCommandLines.png"
@@ -51,6 +49,18 @@ In the **exec** section, it is necessary to indicate the location of the file [x
 
 ### Configuration
 
+#### WM_DESKTOP
+
 ABC
 
-### Running
+#### WM_CLASS
+
+ABC
+
+#### WM_NAME
+
+ABC
+
+#### Colors
+
+ABC
