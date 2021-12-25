@@ -1,3 +1,4 @@
-All the information about this repository can be found in its respective wiki.
 
-https://github.com/MateoNitro550/xxxwindow-polybar-module/wiki.
+
+xxxwindow is a custom module for the Polybar, very similar to the internal 'xwindow' module. xxxwindow allows customizing the name of the applications shown in the polybar.
+
