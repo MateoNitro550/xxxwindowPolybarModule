@@ -73,7 +73,25 @@ Immediately after executing the command, we should move to an empty desktop; the
 
 #### WM_CLASS
 
-ABC
+If we want to change the name of _all the windows belonging to the same process_, we must use **WM_CLASS**.
+
+For example, suppose I want to summarize the name of the different Ghidra windows, to Ghidra.
+
+Instead of having different names, depending on which instance of Ghidra I am in:
+
+<p align="center">
+    <img src="/assets/ghidraFirst.png"
+</p>
+
+<p align="center">
+    <img src="/assets/ghidraSecond.png"
+</p>
+
+I can call them all the same, Ghidra.
+
+<p align="center">
+    <img src="/assets/ghidraThird.png"
+</p>
 
 #### WM_NAME
 
