@@ -41,7 +41,11 @@ Or even personalize it:
 
 ### Installation
 
-ABC
+To add the xxxwindow module to the polybar, simply add the following code to the configuration file of the polybar.
+
+<p align="center">
+    <img src="/assets/installationCommandLines.png"
+</p>
 
 ### Configuration
 
