@@ -45,7 +45,7 @@ To add the xxxwindow module to the Polybar, simply add the following code to the
     <img src="/assets/installationCommandLines.png"
 </p>
 
-In the **exec** section, it is necessary to indicate the location of the file [xxxwindow.sh](https://github.com/MateoNitro550/xxxwindowPolybarModule/blob/main/xxxwindow.sh) file.
+In the **exec** section, it is necessary to indicate the location of the [xxxwindow.sh](https://github.com/MateoNitro550/xxxwindowPolybarModule/blob/main/xxxwindow.sh) file.
 
 ### Configuration
 
