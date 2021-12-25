@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<i> - A custom module for the Polybar - </i>
+<i>- A custom module for the Polybar -</i>
 </p>
 
 ## Table of Contents
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-xxxwindow allows customizing the name of the applications shown in the Polybar, it's a custom module, very similar to the internal 'xwindow' module.
+xxxwindow allows customizing the name of the applications shown in the Polybar, it's a custom module, very similar to the internal _xwindow_ module.
 
 Instead of getting:
 
