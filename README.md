@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-A custom module for the Polybar
+- A custom module for the Polybar -
 </p>
 
 xxxwindow allows customizing the name of the applications shown in the Polybar, it is a custom module, very similar to the internal 'xwindow' module.
