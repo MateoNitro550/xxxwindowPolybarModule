@@ -148,10 +148,14 @@ Finally, we must enter the custom name we want for that application:
 
 Additionally, we can change the text color of the process name displayed in the Polybar.
 
+<p align="center">
+    <img src="/assets/colorsFirst.png"
+</p>
+
 To do this we must modify the following value in each of the rules we have created:
 
 <p align="center">
-    <img src="/assets/colors.png"
+    <img src="/assets/colorsSecond.png"
 </p>
 
 The color that we introduce, must be represented in hexadecimal, otherwise, it will not work.
