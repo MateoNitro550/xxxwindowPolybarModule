@@ -15,7 +15,7 @@
 
 ## Introduction
 
-xxxwindow allows customizing the name of the applications shown in the Polybar, it's a custom module, very similar to the internal _xwindow_ module.
+xxxwindow allows customizing the name of the applications shown in the _Polybar_, it's a custom module, very similar to the internal _xwindow_ module.
 
 Instead of getting:
 
@@ -39,7 +39,7 @@ Or even personalize it:
 
 ### Installation
 
-To add the xxxwindow module to the Polybar, simply add the following code to the configuration file of the Polybar.
+To add the xxxwindow module to the _Polybar_, simply add the following code to the configuration file of the _Polybar_.
 
 <p align="center">
     <img src="/assets/installationCommandLines.png"
