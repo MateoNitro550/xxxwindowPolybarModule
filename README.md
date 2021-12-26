@@ -104,7 +104,9 @@ To do this, we can run the following command:
 xprop WM_CLASS
 ```
 
-Then, we will have to click on the program whose name we want to change; the name we just got, we should replace it here:
+Then, we will have to click on the program whose name we want to change. 
+
+The name we just got, we should replace it here:
 
 <p align="center">
     <img src="/assets/WM_CLASSfirst.png"
@@ -118,7 +120,7 @@ Finally, we must enter the custom name we want for that application:
 
 #### WM_NAME
 
-Unlike WM_CLASS, with **WM_NAME** we can change the name of a _certain window_, of a certain process.
+Unlike WM_CLASS, with **WM_NAME** we can change the name of a `certain window`, of a certain process.
 
 For example, suppose I want to change the name of a certain Ghidra window, but not all of them.
 
@@ -128,7 +130,9 @@ To do this, we can run the following command:
 xprop WM_NAME
 ```
 
-Then, we will have to click on the program whose name we want to change; the name we just got, we should replace it here:
+Then, we will have to click on the program whose name we want to change.
+
+The name we just got, we should replace it here:
 
 <p align="center">
     <img src="/assets/WM_NAMEfirst.png"
