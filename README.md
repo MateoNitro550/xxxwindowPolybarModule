@@ -41,6 +41,13 @@ Or even personalize it:
 
 To add the xxxwindow module to the _Polybar_, simply add the following code to the configuration file of the _Polybar_.
 
+```
+[module/xxxwindow]
+type = custom/script
+interval = 0
+exec /the/location/where/you/save/the/xxxwindow.sh/file 
+```
+
 <p align="center">
     <img src="/assets/installationCommandLines.png"
 </p>
