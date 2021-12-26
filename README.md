@@ -45,7 +45,7 @@ To add the xxxwindow module to the _Polybar_, simply add the following code to t
 [module/xxxwindow]
 type = custom/script
 interval = 0
-exec /the/location/where/you/save/the/xxxwindow.sh/file 
+exec = ~/the/location/where/you/save/the/xxxwindow.sh/file 
 ```
 
 In the **exec** section, it is necessary to indicate the location of the [xxxwindow.sh](https://github.com/MateoNitro550/xxxwindowPolybarModule/blob/main/xxxwindow.sh) file.
