@@ -68,7 +68,9 @@ To do this, we can run the following command:
 sleep 3; xdotool getwindowfocus
 ```
 
-Immediately after executing the command, we should move to an empty desktop; the value we just got, we should replace it here:
+Immediately after executing the command, we should move to an empty desktop.
+
+The value we just got, we should replace it here:
 
 <p align="center">
     <img src="/assets/WM_DESKTOP.png"
@@ -76,7 +78,7 @@ Immediately after executing the command, we should move to an empty desktop; the
 
 #### WM_CLASS
 
-If we want to change the name of _all the windows belonging to the same process_, we must use **WM_CLASS**.
+If we want to change the name of `all the windows belonging to the same process`, we must use **WM_CLASS**.
 
 For example, suppose I want to summarize the name of the different Ghidra windows, to Ghidra.
 
