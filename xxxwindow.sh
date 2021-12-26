@@ -15,7 +15,7 @@ elif [ $WM_DESKTOP != "1883" ]; then
 
 		echo "%{F#ffffff}Custom name%{u-}"
 	
-	elif [ $WM_CLASS == 'Enter WM_CLASS value here' ]; then
+	elif [ $WM_NAME == 'Enter WM_NAME value here' ]; then
 
 		echo "%{F#ffffff}Custom name%{u-}"
 
