@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 WM_DESKTOP=$(xdotool getwindowfocus)
 
