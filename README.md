@@ -48,10 +48,6 @@ interval = 0
 exec /the/location/where/you/save/the/xxxwindow.sh/file 
 ```
 
-<p align="center">
-    <img src="/assets/installationCommandLines.png"
-</p>
-
 In the **exec** section, it is necessary to indicate the location of the [xxxwindow.sh](https://github.com/MateoNitro550/xxxwindowPolybarModule/blob/main/xxxwindow.sh) file.
 
 ### Configuration
