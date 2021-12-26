@@ -12,6 +12,7 @@
 * [Getting started](#getting-started)
   * [Installation](#installation)
   * [Configuration](#configuration)
+  * [Customization](#customization)
 
 ## Introduction
 
@@ -52,8 +53,6 @@ In the **exec** section, it is necessary to indicate the location of the [xxxwin
 
 ### Configuration
 
-#### WM_DESKTOP
-
 To avoid the following error:
 
 <p align="center">
@@ -75,6 +74,8 @@ The value we just got, we should replace it here:
 <p align="center">
     <img src="/assets/WM_DESKTOP.png"
 </p>
+
+### Customization
 
 #### WM_CLASS
 
